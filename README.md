@@ -1,6 +1,6 @@
 ### Ola! eu sou Gustavo Backes
 
-- 🌱 Estudando Java
+- 🌱 Dev back-end Java 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
